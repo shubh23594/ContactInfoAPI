@@ -1,0 +1,8 @@
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\bin\Debug\netcoreapp3.1\ContactInformationAPI.Common.deps.json
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\bin\Debug\netcoreapp3.1\ContactInformationAPI.Common.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\bin\Debug\netcoreapp3.1\ContactInformationAPI.Common.pdb
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\obj\Debug\netcoreapp3.1\ContactInformationAPI.Common.AssemblyInfoInputs.cache
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\obj\Debug\netcoreapp3.1\ContactInformationAPI.Common.AssemblyInfo.cs
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\obj\Debug\netcoreapp3.1\ContactInformationAPI.Common.csproj.CoreCompileInputs.cache
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\obj\Debug\netcoreapp3.1\ContactInformationAPI.Common.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Common\obj\Debug\netcoreapp3.1\ContactInformationAPI.Common.pdb

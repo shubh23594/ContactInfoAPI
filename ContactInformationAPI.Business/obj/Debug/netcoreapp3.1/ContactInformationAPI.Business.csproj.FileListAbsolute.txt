@@ -1,0 +1,14 @@
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Business.deps.json
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Business.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Business.pdb
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Common.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Interfaces.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Interfaces.pdb
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\bin\Debug\netcoreapp3.1\ContactInformationAPI.Common.pdb
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.csprojAssemblyReference.cache
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.AssemblyInfoInputs.cache
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.AssemblyInfo.cs
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.csproj.CoreCompileInputs.cache
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.csproj.CopyComplete
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.dll
+D:\Dot Net Core\ContactInformationAPI\ContactInformationAPI.Business\obj\Debug\netcoreapp3.1\ContactInformationAPI.Business.pdb
